@@ -1,0 +1,18 @@
+{
+  "name": "lavaca-dust-helpers",
+  "version": "0.0.1",
+  "homepage": "http://getlavaca.com",
+  "authors": [
+	"Mutual Mobile <lavaca@mutualmobile.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+	"**/.*",
+	"node_modules",
+	"bower_components",
+	"test"
+  ],
+  "dependencies": {
+	"lavaca": "latest"
+  }
+}

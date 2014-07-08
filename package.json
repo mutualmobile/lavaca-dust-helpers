@@ -1,0 +1,33 @@
+{
+  "name": "lavaca-dust-helpers",
+  "description": "dust helpers designed to work with the Lavaca framework",
+  "version": "0.0.1",
+  "homepage": "https://github.com/mutualmobile/lavaca-dust-helpers",
+  "author": {
+    "name": "mutualmobile",
+    "email": "george.henderson@mutualmobile.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mutualmobile/lavaca-dust-helpers.git"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/mutualmobile/lavaca/blob/master/LICENSE-MIT"
+    }
+  ],
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-jasmine": "0.5.3",
+    "grunt-template-jasmine-requirejs": "0.1.10"
+  },
+  "keywords": [
+    "lavaca",
+	"dust",
+    "javascript"
+  ]
+}
