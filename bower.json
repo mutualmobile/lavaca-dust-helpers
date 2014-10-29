@@ -13,7 +13,7 @@
     "test"
   ],
   "dependencies": {
-    "lavaca": "mutualmobile/lavaca#v3",
+    "lavaca": "mutualmobile/lavaca",
     "dustjs-linkedin": "git://github.com/georgehenderson/dustjs.git#2.0.4",
     "dustjs-linkedin-helpers": "~1.1.1",
     "require-dust": "git://github.com/georgehenderson/require-dust.git#master"
